@@ -1,0 +1,19 @@
+version: '3.5'
+
+services:
+  station:
+    build: '.'
+    environment:
+        - service=1
+        - location=Darmstadt
+    network_mode: host
+
+    expose:
+      - "7676"
+      - "7677"
+      - "7678"
+      - "9090"
+    ports:
+      - 3030:3030
+    volumes:
+      - ./DataHistory:/DataHistory  

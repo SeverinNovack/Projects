@@ -1,0 +1,215 @@
+body{
+    width: 95%;
+    margin:0 auto;
+    font-size: 120%;
+}
+
+.div-table-parent {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.div-table {
+    display: table;
+    width: 22%;
+    height: 80%;
+    border-spacing: 5px;
+    overflow-y: scroll;
+    text-align:justify;
+    box-sizing: content-box;
+}
+
+.div-table-fist-row {
+    display: table-row;
+    width: 4%;
+    heigth: 4%;
+
+    clear: both;
+}
+
+.table-first-column {
+    float: left;
+    display: table-column;
+    width: 5%;
+    color: navajowhite;
+    font-size: 108%;
+}
+.table-first-name-column {
+    float: left;
+    display: table-column;
+    width: 6%;
+    color: navajowhite;
+    font-size: 110%;
+}
+
+.div-table-row {
+    display: table-row;
+    width: auto;
+    clear: both;
+}
+.table-column {
+    float: left;
+    display: table-column;
+    width: 21%;
+    color: navajowhite;
+}
+.table-name-column {
+    float: left;
+    display: table-column;
+    width: 35%;
+    color: navajowhite;
+}
+html, body {
+    height: 100%;
+    background-image: url("images/baecker.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+@media only screen and (min-width : 300px) and (max-width: 400px) {
+
+    body{
+        width: 95%;
+        margin:0 auto;
+        font-size: 120%;
+    }
+
+    .div-table-parent {
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+    }
+
+    .div-table {
+        display: table;
+        width: 100%;
+        height: 80%;
+        border-spacing: 5px;
+        overflow-y: scroll;
+        text-align:justify;
+        box-sizing: content-box;
+    }
+
+    .div-table-fist-row {
+        display: table-row;
+        width: 4%;
+        heigth: 4%;
+
+        clear: both;
+    }
+
+    .table-first-column {
+        float: left;
+        display: table-column;
+        width: 21%;
+        color: navajowhite;
+        font-size: 90%;
+    }
+    .table-first-name-column {
+        float: left;
+        display: table-column;
+        width: 35%;
+        color: navajowhite;
+        font-size: 100%;
+    }
+
+    .div-table-row {
+        display: table-row;
+        width: auto;
+        clear: both;
+    }
+    .table-column {
+        float: left;
+        display: table-column;
+        width: 21%;
+        color: navajowhite;
+    }
+    .table-name-column {
+        float: left;
+        display: table-column;
+        width: 35%;
+        color: navajowhite;
+    }
+    html, body {
+        height: 100%;
+        background-image: url("images/baecker.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}
+
+@media only screen and (min-width: 470px) and (max-width: 500px) {
+    body{
+        width: 95%;
+        margin:0 auto;
+        font-size: 120%;
+    }
+
+    .div-table-parent {
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+    }
+
+    .div-table {
+        display: table;
+        width: 100%;
+        height: 80%;
+        border-spacing: 5px;
+        overflow-y: scroll;
+        text-align:justify;
+        box-sizing: content-box;
+    }
+
+    .div-table-fist-row {
+        display: table-row;
+        width: 4%;
+        heigth: 4%;
+
+        clear: both;
+    }
+
+    .table-first-column {
+        float: left;
+        display: table-column;
+        width: 21%;
+        color: navajowhite;
+        font-size: 90%;
+    }
+    .table-first-name-column {
+        float: left;
+        display: table-column;
+        width: 35%;
+        color: navajowhite;
+        font-size: 100%;
+    }
+
+    .div-table-row {
+        display: table-row;
+        width: auto;
+        clear: both;
+    }
+    .table-column {
+        float: left;
+        display: table-column;
+        width: 21%;
+        color: navajowhite;
+    }
+    .table-name-column {
+        float: left;
+        display: table-column;
+        width: 35%;
+        color: navajowhite;
+    }
+    html, body {
+        height: 100%;
+        background-image: url("images/baecker.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}

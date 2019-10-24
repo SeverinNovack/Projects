@@ -1,0 +1,187 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+    grid-template-areas:
+            "title title"
+            "card ."
+            "card warenkorb"
+            "card ."
+;
+}
+.picture img{
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: 40%;
+}
+html, body {
+    background-image: url("images/bestellung.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: navajowhite;
+    overflow-x: hidden;
+
+}
+.price, .name {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    font-size: 150%;
+}
+h1 {
+    grid-column: 1 / 3;
+    color: navajowhite;
+    text-align: center;
+    grid-area: title;
+    font-size: 300%;
+}
+h2 {
+    color: navajowhite;
+    text-align: center;
+    grid-column: 1 / 2;
+}
+.h2S{
+    font-size: 150%;
+}
+.card {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-area: card;
+}
+
+
+.Warenkorb {
+    grid-column: 2 / 3;
+    grid-area: warenkorb;
+    font-size: 150%;
+    position: relative;
+}
+.Selectbox select{
+    display: block;
+    margin: auto;
+    width: 100px;
+}
+.Selectbox option {
+    height: 20px;
+}
+.Selectbox {
+    transform: scale(1.5);
+}
+.adrinput {
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+.totalprice {
+    text-align: center;
+}
+.buttons {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+hr {
+    width: 60%;
+
+}
+
+
+
+
+@media only screen and (min-width : 300px) and (max-width: 400px) {
+    .wrapper {
+        display: block;
+    }
+    html, body {
+        background: #2a2727;
+        color: navajowhite;
+    }
+    .price, .name {
+        text-align: center;
+        width: 100%;
+        margin: auto;
+    }
+    .picture img{
+        display: block;
+        width: 90%;
+        height: 90%;
+        margin: auto;
+    }
+    h1, h2 {
+        color: navajowhite;
+        text-align: center;
+    }
+    .Selectbox select{
+        display: block;
+        margin: auto;
+        width: 100px;
+    }
+    .Selectbox option {
+        height: 20px;
+    }
+    .adrinput {
+        display: block;
+        margin: auto;
+        width: 60%;
+    }
+    .totalprice {
+        text-align: center;
+    }
+    .buttons {
+        display: block;
+        margin: auto;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 470px) and (max-width: 500px) {
+    .wrapper {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: auto;
+        grid-template-areas:
+                "title title"
+                "card warenkorb"
+    ;
+    }
+    html, body {
+        color: navajowhite;
+        background: #2a2727;}
+    .price, .name {
+        text-align: center;
+        width: 100%;
+        margin: auto;}
+    .picture img{
+        display: block;
+        width: 90%;
+        height: 90%;
+        margin: auto;
+    }
+    h1, h2 {
+        color: navajowhite;
+        text-align: center;
+    }
+    .Selectbox select{
+        display: block;
+        margin: auto;
+        width: 100px;
+    }
+    .Selectbox option {
+        height: 20px;
+    }
+    .adrinput {
+        display: block;
+        margin: auto;
+        width: 60%;
+    }
+    .totalprice {
+        text-align: center;
+    }
+    .buttons {
+        display: block;
+        margin: auto;
+        width: 60%;
+    }
+
+}

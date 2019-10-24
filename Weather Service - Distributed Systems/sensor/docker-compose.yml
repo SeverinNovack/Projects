@@ -1,0 +1,39 @@
+version: '3.5'
+
+services:
+
+  humidity:
+    build: '.'
+    environment:
+        - sensortype=h
+        - topic=sensorValue
+
+  rain:
+    build: '.'
+    environment:
+        - sensortype=r
+        - topic=sensorValue
+
+  temp:
+    build: '.'
+    environment:
+        - sensortype=t
+        - topic=sensorValue
+
+  wind:
+    build: '.'
+    environment:
+        - sensortype=w
+        - topic=sensorValue
+
+  atmosphericpressure:
+    build: '.'
+    environment:
+        - sensortype=p
+        - topic=sensorValue
+
+  winddirection:
+    build: '.'
+    environment:
+        - sensortype=d
+        - topic=sensorValue

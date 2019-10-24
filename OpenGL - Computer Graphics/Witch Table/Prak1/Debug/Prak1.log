@@ -1,0 +1,62 @@
+﻿  BallOfFortune.cpp
+C:\Users\Severin\source\repos\Prak1\Prak1\BallOfFortune.cpp(10): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\BallOfFortune.cpp(13): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\BallOfFortune.cpp(14): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\BallOfFortune.cpp(22): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\BallOfFortune.cpp(24): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+  Book.cpp
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(12): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(14): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(15): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(18): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(19): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(23): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(24): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(27): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(28): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(42): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(43): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Book.cpp(44): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+  Freie_Aufgabe.cpp
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(27): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(59): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(60): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(61): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(64): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(65): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(66): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(67): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(69): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(70): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(71): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(72): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(136): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(144): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(149): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(156): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(157): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(201): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(224): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(247): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(270): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(274): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(280): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(313): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(324): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(332): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(340): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(342): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(348): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(349): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(357): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(358): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(367): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(370): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(373): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(377): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(388): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(394): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(402): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Severin\source\repos\Prak1\Prak1\Freie_Aufgabe.cpp(408): warning C4305: "=": Verkürzung von "double" in "float"
+  Code wird generiert...
+  Prak1.vcxproj -> C:\Users\Severin\source\repos\Prak1\Debug\Prak1.exe

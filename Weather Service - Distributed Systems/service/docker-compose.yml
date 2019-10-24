@@ -1,0 +1,31 @@
+version: '3.5'
+
+services:
+  service:
+    build: '.'
+    networks:
+        sensor-station_network:
+            ipv4_address: 172.20.0.20
+    environment:
+      - port=7676
+    ports:
+      - 9090:9090
+    expose:
+      - "9090"
+    volumes:
+      - ./data:/data
+ 
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+
+networks:
+  sensor-station_network:
+    name: sensor-station_network
+    external: false
+    ipam:
+        config:
+            - subnet: 172.20.0.0/16

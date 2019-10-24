@@ -1,0 +1,63 @@
+body {
+    height: 100%;
+    overflow: hidden;
+    background: black;
+    color: navajowhite;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    grid-template-areas: "topleft topright" "bottomleft bottomright";
+    height: 100%;
+    width: 100%;
+}
+
+.topleft {
+    grid-area: topleft;
+    height: 370px;
+    text-align: center;
+    background-image: url("images/bestellung.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bottomleft {
+    grid-area: bottomleft;
+    height: 370px;
+    text-align: center;
+    background-image: url("images/baecker.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.topright {
+    grid-area: topright;
+    height: 370px;
+    text-align: center;
+    background-image: url("images/kunde.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bottomright {
+    grid-area: bottomright;
+    height: 370px;
+    text-align: center;
+    background-image: url("images/fahrer.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    position: fixed;
+    top: 42%;
+    left: 40%;
+    font-size: 300%;
+}
+a {
+    position: relative;
+    top: 40%;
+    font-size: 300%;
+    color: navajowhite;
+}

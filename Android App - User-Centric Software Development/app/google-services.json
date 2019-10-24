@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228697003915",
+    "firebase_url": "https://kersti-1c765.firebaseio.com",
+    "project_id": "kersti-1c765",
+    "storage_bucket": "kersti-1c765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228697003915:android:d19b8ffab1b64e46",
+        "android_client_info": {
+          "package_name": "com.example.severin.kersti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228697003915-velaivd8fct21dm1v9mp7f1touahasim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.severin.kersti",
+            "certificate_hash": "4fcc86514fb0eaa5f290c9c4dc1d9b2c0e70e88e"
+          }
+        },
+        {
+          "client_id": "228697003915-ql1mil09kuv19rdf6hslf6k1e4128p4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHcmZIiP-Sh8KKnCP5nXd2WjpWjgf6gjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228697003915-ql1mil09kuv19rdf6hslf6k1e4128p4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
