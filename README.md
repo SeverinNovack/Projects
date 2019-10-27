@@ -1,1 +1,1 @@
-# This is a repository for most of my projects that I created while studying at the h_da.
+# Repository of Severin Novack - Information Technology student at the h_da
